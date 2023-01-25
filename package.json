@@ -1,0 +1,51 @@
+{
+  "name": "lambda-studio-themes",
+  "displayName": "Lambda Studio Themes",
+  "description": "Official Color Themes for Lambda Studio",
+  "version": "0.1.0",
+  "publisher": "LambdaStudio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StudioLambda/VSCodeThemes.git"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lambda Studio — White",
+        "uiTheme": "vs",
+        "path": "./themes/white-color-theme.json"
+      },
+      {
+        "label": "Lambda Studio — Whiteout",
+        "uiTheme": "vs",
+        "path": "./themes/whiteout-color-theme.json"
+      },
+      {
+        "label": "Lambda Studio — Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-color-theme.json"
+      },
+      {
+        "label": "Lambda Studio — Blackout",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blackout-color-theme.json"
+      },
+      {
+        "label": "Lambda Studio — Fleet Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fleet-black-color-theme.json"
+      },
+      {
+        "label": "Lambda Studio — Fleet Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fleet-dark-color-theme.json"
+      }
+    ]
+  }
+}

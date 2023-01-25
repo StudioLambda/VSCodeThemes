@@ -1,0 +1,354 @@
+{
+  "name": "Lambda Studio — Fleet Dark",
+  "semanticHighlighting": true,
+  "colors": {
+    "editorLink.activeForeground": "#de91d7",
+    "foreground": "#fff8",
+    "list.highlightForeground": "#fff",
+    "textLink.foreground": "#fff",
+    "scrollbar.shadow": "#181818",
+    "textLink.activeForeground": "#fff8",
+    "editor.lineHighlightBackground": "#ffffff11",
+    "editor.lineHighlightBorder": "#fff2",
+    "editorCursor.foreground": "#eeeeee",
+    "editor.findMatchBackground": "#fff4",
+    "editor.findMatchHighlightBackground": "#fff2",
+    "list.activeSelectionForeground": "#fff",
+    "list.focusForeground": "#fff",
+    "list.hoverForeground": "#fff",
+    "list.inactiveSelectionForeground": "#fff",
+    "list.inactiveSelectionBackground": "#181818",
+    "list.focusBackground": "#181818",
+    "list.focusAndSelectionOutline": "#181818",
+    "list.focusHighlightForeground": "#fff",
+    "list.hoverBackground": "#181818",
+    "list.focusOutline": "#181818",
+    "list.activeSelectionBackground": "#181818",
+    "editorIndentGuide.background": "#fff2",
+    "editor.background": "#181818",
+    "editor.foreground": "#cacaca",
+    "editor.foldBackground": "#181818",
+    "editor.hoverHighlightBackground": "#181818",
+    "editor.selectionBackground": "#fff4",
+    "editor.inactiveSelectionBackground": "#fff2",
+    "gitDecoration.modifiedResourceForeground": "#84bff9",
+    "gitDecoration.untrackedResourceForeground": "#a7cb7b",
+    "gitDecoration.conflictingResourceForeground": "#ebc88d",
+    "gitDecoration.deletedResourceForeground": "#c97b89",
+    "listFilterWidget.background": "#181818",
+    "input.background": "#fff2",
+    "titleBar.activeForeground": "#fff",
+    "editorWidget.background": "#181818",
+    "editorGutter.background": "#181818",
+    "debugToolBar.background": "#181818",
+    "commandCenter.background": "#181818",
+    "sideBarSectionHeader.background": "#181818",
+    "focusBorder": "#fff4",
+    "titleBar.activeBackground": "#181818",
+    "titleBar.inactiveBackground": "#181818",
+    "breadcrumb.background": "#181818",
+    "activityBar.background": "#181818",
+    "panel.background": "#181818",
+    "sideBar.background": "#181818",
+    "sideBarTitle.foreground": "#fff8",
+    "tab.hoverBackground": "#181818",
+    "terminal.background": "#181818",
+    "statusBar.background": "#181818",
+    "statusBar.foreground": "#fff8",
+    "selection.background": "#fff2",
+    "editorPane.background": "#181818",
+    "badge.background": "#181818",
+    "banner.background": "#181818",
+    "menu.background": "#181818",
+    "activityBarBadge.background": "#181818",
+    "activityBarBadge.foreground": "#fff",
+    "editorLineNumber.foreground": "#5d5e5d",
+    "editorLineNumber.activeForeground": "#c2c2c2",
+    "statusBarItem.errorBackground": "#f43f5e"
+  },
+  "semanticTokenColors": {
+    "comment": {
+      "foreground": "#898989"
+    },
+    "keyword": {
+      "foreground": "#7ecbc7"
+    },
+    "string": {
+      "foreground": "#de91d7"
+    },
+    "selfKeyword": {
+      "foreground": "#c97b89"
+    },
+    "method.declaration": {
+      "foreground": "#eeeeee",
+      "bold": true
+    },
+    "method.definition": {
+      "foreground": "#eeeeee",
+      "bold": true
+    },
+    "method": {
+      "foreground": "#ebc88d",
+      "bold": false
+    },
+    "function.declaration": {
+      "foreground": "#eeeeee",
+      "bold": true
+    },
+    "function.definition": {
+      "foreground": "#eeeeee",
+      "bold": true
+    },
+    "function": {
+      "foreground": "#ebc88d",
+      "bold": false
+    },
+    "property": {
+      "foreground": "#af9cff"
+    },
+    "enumMember": {
+      "foreground": "#af9cff"
+    },
+    "enum": {
+      "foreground": "#84bff9"
+    },
+    "boolean": {
+      "foreground": "#ebc88d"
+    },
+    "number": {
+      "foreground": "#ebc88d"
+    },
+    "type": {
+      "foreground": "#84bff9"
+    },
+    "typeAlias": {
+      "foreground": "#84bff9"
+    },
+    "class": {
+      "foreground": "#84bff9"
+    },
+    "selfTypeKeyword": {
+      "foreground": "#84bff9"
+    },
+    "builtinType": {
+      "foreground": "#84bff9"
+    },
+    "interface": {
+      "foreground": "#a9ccd9"
+    },
+    "typeParameter": {
+      "foreground": "#84bff9"
+    },
+    "lifetime": {
+      "foreground": "#a7cb7b"
+    },
+    "namespace": {
+      "foreground": "#cacaca"
+    },
+    "macro": {
+      "foreground": "#a7cb7b"
+    },
+    "decorator": {
+      "foreground": "#a7cb7b",
+      "bold": false
+    },
+    "builtinAttribute": {
+      "foreground": "#a7cb7b",
+      "bold": false
+    },
+    "generic.attribute": {
+      "foreground": "#a7cb7b"
+    },
+    "derive": {
+      "foreground": "#a9ccd9"
+    },
+    "operator": {
+      "foreground": "#cacaca"
+    },
+    "variable": {
+      "foreground": "#cacaca"
+    },
+    "variable.readonly": {
+      "foreground": "#ebc88d"
+    },
+    "parameter": {
+      "foreground": "#cacaca"
+    },
+    "variable.mutable": {
+      "underline": true
+    },
+    "parameter.mutable": {
+      "underline": true
+    },
+    "selfKeyword.mutable": {
+      "underline": true
+    },
+    "variable.constant": {
+      "foreground": "#af9cff"
+    },
+    "struct": {
+      "foreground": "#84bff9"
+    }
+  },
+  "tokenColors": [
+    {
+      "name": "Fallback Operator",
+      "scope": ["keyword.operator"],
+      "settings": {
+        "foreground": "#cacaca"
+      }
+    },
+    {
+      "name": "Fallback keywords",
+      "scope": [
+        "storage.type.ts",
+        "keyword",
+        "keyword.other",
+        "keyword.control",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#7ecbc7"
+      }
+    },
+    {
+      "name": "Fallback strings",
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#de91d7"
+      }
+    },
+    {
+      "name": "Fallback JSON Properties",
+      "scope": ["support.type.property-name.json"],
+      "settings": {
+        "foreground": "#7ecbc7"
+      }
+    },
+    {
+      "name": "Fallback string variables",
+      "scope": ["string variable", "string meta.interpolation"],
+      "settings": {
+        "foreground": "#cacaca"
+      }
+    },
+    {
+      "name": "Fallback comments",
+      "scope": ["comment"],
+      "settings": {
+        "foreground": "#898989"
+      }
+    },
+    {
+      "name": "Fallback constants",
+      "scope": ["constant"],
+      "settings": {
+        "foreground": "#ebc88d"
+      }
+    },
+    {
+      "name": "Fallback self/this",
+      "scope": ["variable.language.this"],
+      "settings": {
+        "foreground": "#c97b89"
+      }
+    },
+    {
+      "name": "Fallback types",
+      "scope": [
+        "entity.other.alias",
+        "source.php support.class",
+        "entity.name.type",
+        "meta.function-call support.class",
+        "keyword.other.type",
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "foreground": "#84bff9"
+      }
+    },
+    {
+      "name": "Fallback method calls",
+      "scope": ["meta.method-call entity.name.function"],
+      "settings": {
+        "foreground": "#ebc88d",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Fallback function calls",
+      "scope": [
+        "meta.function-call entity.name.function",
+        "meta.function-call support.function",
+        "meta.function.call entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#ebc88d",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Fallback enums & constants",
+      "scope": ["constant.enum", "constant.other"],
+      "settings": {
+        "foreground": "#af9cff"
+      }
+    },
+    {
+      "name": "Fallback Properties & func arguments",
+      "scope": [
+        "variable.other.property",
+        "entity.name.goto-label",
+        "entity.name.variable.parameter"
+      ],
+      "settings": {
+        "foreground": "#af9cff"
+      }
+    },
+    {
+      "name": "Fallback functions & methods declarations",
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "support.function.constructor",
+        "entity.name.function meta.function-call meta.method-call"
+      ],
+      "settings": {
+        "foreground": "#eeeeee",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "HTML Tags",
+      "scope": [
+        "meta.tag entity.name.tag.html",
+        "entity.name.tag.template.html"
+      ],
+      "settings": {
+        "foreground": "#7ecbc7"
+      }
+    },
+    {
+      "name": "HTML Attributes",
+      "scope": ["entity.other.attribute-name.html"],
+      "settings": {
+        "foreground": "#af9cff"
+      }
+    },
+    {
+      "name": "HTML Custom Tag",
+      "scope": ["meta.tag.other.unrecognized.html entity.name.tag.html"],
+      "settings": {
+        "foreground": "#84bff9"
+      }
+    },
+    {
+      "name": "HTML Keywords",
+      "scope": ["text.html keyword"],
+      "settings": {
+        "foreground": "#af9cff"
+      }
+    }
+  ]
+}
