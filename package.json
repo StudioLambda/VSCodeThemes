@@ -4,6 +4,11 @@
   "description": "Official Color Themes for Lambda Studio",
   "version": "0.2.0",
   "publisher": "LambdaStudio",
+  "icon": "./logo.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/StudioLambda/VSCodeThemes.git"
