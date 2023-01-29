@@ -75,7 +75,7 @@
       "foreground": "#0004"
     },
     "keyword": {
-      "foreground": "#c97b89"
+      "foreground": "#be185d"
     },
     "string": {
       "foreground": "#111111"
@@ -214,7 +214,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#c97b89"
+        "foreground": "#be185d"
       }
     },
     {
