@@ -2,7 +2,7 @@
   "name": "lambda-studio-themes",
   "displayName": "Lambda Studio Themes",
   "description": "Official Color Themes for Lambda Studio",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "LambdaStudio",
   "repository": {
     "type": "git",
