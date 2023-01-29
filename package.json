@@ -4,7 +4,7 @@
   "description": "Official Color Themes for Lambda Studio",
   "version": "0.2.0",
   "publisher": "LambdaStudio",
-  "icon": "./logo.png",
+  "icon": "logo.png",
   "galleryBanner": {
     "color": "#000000",
     "theme": "dark"
