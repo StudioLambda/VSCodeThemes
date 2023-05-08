@@ -267,7 +267,8 @@
         "entity.name.type",
         "meta.function-call support.class",
         "keyword.other.type",
-        "entity.other.inherited-class"
+        "entity.other.inherited-class",
+        "entity.name.tag support.class.component"
       ],
       "settings": {
         "foreground": "#6d28d9"
@@ -275,7 +276,7 @@
     },
     {
       "name": "Fallback method calls",
-      "scope": ["meta.method-call entity.name.function"],
+      "scope": ["meta.method-call entity.name.function", "entity.name.tag"],
       "settings": {
         "foreground": "#ca8a04",
         "fontStyle": ""

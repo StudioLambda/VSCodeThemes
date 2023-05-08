@@ -262,7 +262,8 @@
         "entity.name.type",
         "meta.function-call support.class",
         "keyword.other.type",
-        "entity.other.inherited-class"
+        "entity.other.inherited-class",
+        "entity.name.tag"
       ],
       "settings": {
         "foreground": "#84bff9"
@@ -300,7 +301,8 @@
       "scope": [
         "variable.other.property",
         "entity.name.goto-label",
-        "entity.name.variable.parameter"
+        "entity.name.variable.parameter",
+        "meta.tag.attributes"
       ],
       "settings": {
         "foreground": "#af9cff"
