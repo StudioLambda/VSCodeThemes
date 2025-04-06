@@ -1,182 +1,183 @@
 {
-  "name": "Lambda Studio — Black",
+  "name": "Lambda Studio — Darkout",
   "semanticHighlighting": true,
   "colors": {
     "editorLink.activeForeground": "#de91d7",
-    "foreground": "#fff8",
-    "button.background": "#fff",
-    "button.foreground": "#000",
-    "button.hoverBackground": "#fffb",
-    "list.highlightForeground": "#fff",
-    "textLink.foreground": "#fff",
-    "scrollbar.shadow": "#000",
-    "textLink.activeForeground": "#fff8",
-    "editor.lineHighlightBackground": "#fff1",
-    "editor.lineHighlightBorder": "#fff2",
+    "foreground": "#eeeeee88",
+    "button.background": "#eeeeee",
+    "button.foreground": "#000000",
+    "button.hoverBackground": "#eeeeee",
+    "list.highlightForeground": "#eeeeee",
+    "textLink.foreground": "#eeeeee",
+    "scrollbar.shadow": "#000000",
+    "textLink.activeForeground": "#eeeeee",
+    "editor.lineHighlightBackground": "#eeeeee",
+    "editor.lineHighlightBorder": "#eeeeee",
     "editorCursor.foreground": "#eeeeee",
-    "editor.findMatchBackground": "#fff4",
-    "editor.findMatchHighlightBackground": "#fff2",
-    "list.activeSelectionForeground": "#fff",
-    "list.focusForeground": "#fff",
-    "list.hoverForeground": "#fff",
-    "list.inactiveSelectionForeground": "#fff",
-    "list.inactiveSelectionBackground": "#000",
-    "list.focusBackground": "#000",
-    "list.focusAndSelectionOutline": "#000",
-    "list.focusHighlightForeground": "#fff",
-    "list.hoverBackground": "#000",
-    "list.focusOutline": "#000",
-    "list.activeSelectionBackground": "#000",
-    "editorIndentGuide.background1": "#fff2",
-    "editor.background": "#000",
-    "editor.foreground": "#cacaca",
+    "editor.findMatchBackground": "#eeeeee66",
+    "editor.findMatchHighlightBackground": "#eeeeee22",
+    "list.activeSelectionForeground": "#eeeeee",
+    "list.activeSelectionBackground": "#eeeeee11",
+    "list.focusForeground": "#eeeeee88",
+    "list.hoverForeground": "#eeeeee",
+    "list.inactiveSelectionForeground": "#eeeeee",
+    "list.inactiveSelectionBackground": "#eeeeee11",
+    "list.focusBackground": "#000000",
+    "list.focusAndSelectionOutline": "#000000",
+    "list.focusHighlightForeground": "#eeeeee",
+    "list.hoverBackground": "#000000",
+    "list.focusOutline": "#000000",
+    "editor.background": "#000000",
+    "editor.foreground": "#eeeeee88",
     "editor.foldBackground": "#00000088",
     "editor.hoverHighlightBackground": "#00000088",
-    "editor.selectionBackground": "#fff4",
-    "editor.inactiveSelectionBackground": "#fff2",
-    "gitDecoration.modifiedResourceForeground": "#af9cff",
+    "editor.selectionBackground": "#eeeeee22",
+    "editor.inactiveSelectionBackground": "#eeeeee22",
+    "gitDecoration.modifiedResourceForeground": "#dabaffff",
     "gitDecoration.untrackedResourceForeground": "#a7cb7b",
     "gitDecoration.conflictingResourceForeground": "#ebc88d",
     "gitDecoration.deletedResourceForeground": "#be185d",
-    "listFilterWidget.background": "#000",
-    "input.background": "#fff2",
-    "titleBar.activeForeground": "#fff",
-    "editorWidget.background": "#000",
-    "editorGutter.background": "#000",
-    "debugToolBar.background": "#000",
-    "commandCenter.background": "#000",
-    "sideBarSectionHeader.background": "#000",
-    "focusBorder": "#fff8",
-    "titleBar.activeBackground": "#000",
-    "titleBar.inactiveBackground": "#000",
-    "breadcrumb.background": "#000",
-    "activityBar.background": "#000",
-    "panel.background": "#000",
-    "sideBar.background": "#000",
-    "sideBarTitle.foreground": "#fff8",
-    "tab.hoverBackground": "#000",
-    "terminal.background": "#000",
-    "statusBar.background": "#000",
-    "statusBar.foreground": "#fff8",
-    "selection.background": "#fff2",
-    "editorPane.background": "#000",
-    "badge.background": "#000",
-    "banner.background": "#000",
-    "menu.background": "#000",
-    "activityBarBadge.background": "#000",
-    "activityBarBadge.foreground": "#fff8",
-    "editorLineNumber.foreground": "#fff2",
-    "editorLineNumber.activeForeground": "#fff4",
-    "statusBarItem.errorBackground": "#f43f5e"
+    "listFilterWidget.background": "#000000",
+    "input.background": "#eeeeee22",
+    "titleBar.activeForeground": "#eeeeee",
+    "editorWidget.background": "#000000",
+    "editorGutter.background": "#000000",
+    "debugToolBar.background": "#000000",
+    "commandCenter.background": "#000000",
+    "sideBarSectionHeader.background": "#000000",
+    "focusBorder": "#eeeeee88",
+    "titleBar.activeBackground": "#000000",
+    "titleBar.inactiveBackground": "#000000",
+    "breadcrumb.background": "#000000",
+    "activityBar.background": "#000000",
+    "panel.background": "#000000",
+    "sideBar.background": "#000000",
+    "sideBarTitle.foreground": "#eeeeee",
+    "tab.hoverBackground": "#000000",
+    "terminal.background": "#000000",
+    "statusBar.background": "#000000",
+    "statusBar.foreground": "#eeeeee",
+    "selection.background": "#eeeeee22",
+    "editorPane.background": "#000000",
+    "badge.background": "#000000",
+    "banner.background": "#000000",
+    "menu.background": "#000000",
+    "activityBarBadge.background": "#000000",
+    "activityBarBadge.foreground": "#eeeeee",
+    "editorLineNumber.foreground": "#b0b0b022",
+    "editorLineNumber.activeForeground": "#eeeeee",
+    "statusBarItem.errorBackground": "#f43f5e",
+    "editorIndentGuide.activeBackground1": "#b0b0b044",
+    "editorIndentGuide.background1": "#b0b0b022"
   },
   "semanticTokenColors": {
     "comment": {
-      "foreground": "#fff4"
+      "foreground": "#666666"
     },
     "keyword": {
-      "foreground": "#c97b89"
+      "foreground": "#e03189"
     },
     "string": {
-      "foreground": "#eeeeee"
+      "foreground": "#b0b0b0"
     },
     "selfKeyword": {
-      "foreground": "#c97b89"
+      "foreground": "#e03189"
     },
     "method.declaration": {
       "foreground": "#eeeeee",
-      "bold": true
+      "fontStyle": ""
     },
     "method.definition": {
       "foreground": "#eeeeee",
-      "bold": true
+      "fontStyle": ""
     },
     "method": {
-      "foreground": "#ebc88d",
-      "bold": false
+      "foreground": "#eeeeee",
+      "fontStyle": ""
     },
     "function.declaration": {
       "foreground": "#eeeeee",
-      "bold": true
+      "fontStyle": ""
     },
     "function.definition": {
       "foreground": "#eeeeee",
-      "bold": true
+      "fontStyle": ""
     },
     "function": {
-      "foreground": "#ebc88d",
-      "bold": false
+      "foreground": "#eeeeee",
+      "fontStyle": ""
     },
     "property": {
-      "foreground": "#cacaca"
+      "foreground": "#eeeeee"
     },
     "enumMember": {
       "foreground": "#eeeeee"
     },
     "enum": {
-      "foreground": "#af9cff"
+      "foreground": "#dabaffff"
     },
     "boolean": {
-      "foreground": "#eeeeee"
+      "foreground": "#b0b0b0"
     },
     "number": {
-      "foreground": "#eeeeee"
+      "foreground": "#b0b0b0"
     },
     "type": {
-      "foreground": "#af9cff"
+      "foreground": "#dabaffff"
     },
     "typeAlias": {
-      "foreground": "#af9cff"
+      "foreground": "#dabaffff"
     },
     "class": {
-      "foreground": "#af9cff"
+      "foreground": "#dabaffff"
     },
     "selfTypeKeyword": {
-      "foreground": "#af9cff"
+      "foreground": "#dabaffff"
     },
     "builtinType": {
-      "foreground": "#af9cff"
+      "foreground": "#dabaffff"
     },
     "interface": {
-      "foreground": "#af9cffbb"
+      "foreground": "#dabaffff"
     },
     "typeParameter": {
-      "foreground": "#af9cff"
+      "foreground": "#dabaffff"
     },
     "lifetime": {
       "foreground": "#a7cb7b"
     },
     "namespace": {
-      "foreground": "#cacaca"
+      "foreground": "#eeeeee"
     },
     "macro": {
       "foreground": "#ebc88d88",
-      "bold": false
+      "fontStyle": ""
     },
     "decorator": {
       "foreground": "#ebc88d88",
-      "bold": false
+      "fontStyle": ""
     },
     "builtinAttribute": {
       "foreground": "#ebc88d88",
-      "bold": false
+      "fontStyle": ""
     },
     "generic.attribute": {
       "foreground": "#ebc88d88"
     },
     "derive": {
-      "foreground": "#af9cffbb"
+      "foreground": "#dabaffff"
     },
     "operator": {
-      "foreground": "#cacaca"
+      "foreground": "#eeeeee"
     },
     "variable": {
-      "foreground": "#cacaca"
+      "foreground": "#eeeeee"
     },
     "variable.readonly": {
       "foreground": "#eeeeee"
     },
     "parameter": {
-      "foreground": "#cacaca"
+      "foreground": "#eeeeee"
     },
     "variable.mutable": {
       "underline": true
@@ -191,57 +192,58 @@
       "foreground": "#eeeeee"
     },
     "struct": {
-      "foreground": "#af9cff"
+      "foreground": "#dabaffff"
     }
   },
   "tokenColors": [
     {
-      "name": "Fallback Operator",
-      "scope": ["keyword.operator"],
+      "name": "Dimmed keywords",
+      "scope": ["keyword"],
       "settings": {
-        "foreground": "#cacaca"
+        "foreground": "#b0b0b0"
       }
     },
     {
       "name": "Fallback keywords",
       "scope": [
         "storage.type.ts",
-        "keyword",
+        "keyword.operator.new",
         "keyword.other",
         "keyword.control",
         "storage.type",
-        "storage.modifier"
+        "storage.modifier",
+        "meta.attribute.directive punctuation.attribute-shorthand"
       ],
       "settings": {
-        "foreground": "#c97b89"
+        "foreground": "#e03189"
       }
     },
     {
       "name": "Fallback strings",
       "scope": ["string"],
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#b0b0b0"
       }
     },
     {
       "name": "Fallback JSON Properties",
       "scope": ["support.type.property-name.json"],
       "settings": {
-        "foreground": "#af9cff"
+        "foreground": "#dabaffff"
       }
     },
     {
       "name": "Fallback string variables",
       "scope": ["string variable", "string meta.interpolation"],
       "settings": {
-        "foreground": "#cacaca"
+        "foreground": "#666666"
       }
     },
     {
       "name": "Fallback comments",
       "scope": ["comment"],
       "settings": {
-        "foreground": "#fff4"
+        "foreground": "#666666"
       }
     },
     {
@@ -255,7 +257,7 @@
       "name": "Fallback self/this",
       "scope": ["variable.language.this"],
       "settings": {
-        "foreground": "#c97b89"
+        "foreground": "#e03189"
       }
     },
     {
@@ -267,17 +269,18 @@
         "meta.function-call support.class",
         "keyword.other.type",
         "entity.other.inherited-class",
-        "entity.name.tag support.class.component"
+        "entity.name.tag support.class.component",
+        "support.type.primitive"
       ],
       "settings": {
-        "foreground": "#af9cff"
+        "foreground": "#dabaffff"
       }
     },
     {
       "name": "Fallback method calls",
       "scope": ["meta.method-call entity.name.function", "entity.name.tag"],
       "settings": {
-        "foreground": "#ebc88d",
+        "foreground": "#eeeeee",
         "fontStyle": ""
       }
     },
@@ -289,7 +292,7 @@
         "meta.function.call entity.name.function"
       ],
       "settings": {
-        "foreground": "#ebc88d",
+        "foreground": "#eeeeee",
         "fontStyle": ""
       }
     },
@@ -321,38 +324,51 @@
       ],
       "settings": {
         "foreground": "#eeeeee",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
       "name": "HTML Tags",
       "scope": [
         "meta.tag entity.name.tag.html",
-        "entity.name.tag.template.html"
+        "entity.name.tag.template.html",
+        "entity.name.tag.script.html"
       ],
       "settings": {
-        "foreground": "#c97b89"
+        // "foreground": "#e03189"
+        "foreground": "#eeeeee"
       }
     },
     {
       "name": "HTML Attributes",
       "scope": ["entity.other.attribute-name.html"],
       "settings": {
-        "foreground": "#af9cff"
+        "foreground": "#eeeeee"
       }
     },
     {
       "name": "HTML Custom Tag",
       "scope": ["meta.tag.other.unrecognized.html entity.name.tag.html"],
       "settings": {
-        "foreground": "#c97b89"
+        "foreground": "#e03189"
       }
     },
     {
       "name": "HTML Keywords",
       "scope": ["text.html keyword"],
       "settings": {
-        "foreground": "#af9cff"
+        "foreground": "#dabaffff"
+      }
+    },
+    {
+      "name": "Brackets",
+      "scope": [
+        "punctuation.definition.interpolation",
+        "punctuation.definition.block",
+        "punctuation.definition.tag"
+      ],
+      "settings": {
+        "foreground": "#b0b0b0"
       }
     }
   ]

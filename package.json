@@ -2,7 +2,7 @@
   "name": "lambda-studio-themes",
   "displayName": "Lambda Studio Themes",
   "description": "Official Color Themes for Lambda Studio",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "LambdaStudio",
   "icon": "logo.png",
   "galleryBanner": {
@@ -50,6 +50,16 @@
         "label": "Lambda Studio — Fleet Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/fleet-dark-color-theme.json"
+      },
+      {
+        "label": "Lambda Studio — Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-color-theme.json"
+      },
+      {
+        "label": "Lambda Studio — Darkout",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkout-color-theme.json"
       }
     ]
   }
