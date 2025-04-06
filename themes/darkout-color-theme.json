@@ -234,9 +234,9 @@
     },
     {
       "name": "Fallback string variables",
-      "scope": ["string variable", "string meta.interpolation"],
+      "scope": ["variable", "string meta.interpolation"],
       "settings": {
-        "foreground": "#666666"
+        "foreground": "#eeeeee"
       }
     },
     {
